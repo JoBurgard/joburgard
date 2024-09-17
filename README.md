@@ -5,6 +5,13 @@ I currently work as a Senior Fullstack-Developer at a german startup that create
 - 🔟 Over a decade of experience in creating web applications
 - 🔭 I’m currently creating my own batteries included UI-Component-Library built on top of the great headless UI lib Melt-UI.
 
+### 🧪 Experience:
+![Static Badge](https://img.shields.io/badge/16%2B%20years-HTML%2FCSS-orange)
+![Static Badge](https://img.shields.io/badge/8%2B%20years-JS%2FTS-blue)
+![Static Badge](https://img.shields.io/badge/5%2B%20years-Svelte-f96743)
+![Static Badge](https://img.shields.io/badge/2.5%2B%20years-SvelteKit-f96743)
+![Static Badge](https://img.shields.io/badge/4%2B%20years-TailwindCSS-38bdf8)
+
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jo-burgard) 
 
