@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Jo and I live in Germany.  
-I currently work as a Senior Fullstack-Developer at a german startup that creates innovative software for the cargo export sector.  
+I currently work as a Senior Fullstack-Developer and Svelte specialist at vOffice.  
 - 💛 Open-Source-Software
 - 🔟 Over a decade of experience in creating web applications
 - 🔭 I’m currently creating my own batteries included UI-Component-Library built on top of the great headless UI lib Melt-UI.
