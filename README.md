@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Jo and I live in Germany.  
-I currently work as a Senior Fullstack-Developer and Svelte specialist at vOffice.  
+I'm building my own dream projects and everything will be open source. 🙂  
 - 💛 Open-Source-Software
 - 🔟 Over a decade of experience in creating web applications
-- 🔭 I’m currently creating my own batteries included UI-Component-Library built on top of the great headless UI lib Melt-UI.
+- 🔭 Currently I am creating my own batteries included UI-Component-Library built on top of the great headless UI lib Melt-UI.
 
 ### 🧪 Experience:
 ![Static Badge](https://img.shields.io/badge/16%2B%20years-HTML%2FCSS-orange)
